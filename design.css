@@ -1,0 +1,44 @@
+.topimg {
+  width: 100%;
+  background-color: #2a6495;
+}
+
+.mylink {
+  background-color: #dde1e4;
+  display: inline-block;
+  border: thin solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.mylink:hover {
+  background-color: #8D8F92;
+}
+
+.mynav {
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #dde1e4;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mycontent,
+.thinkingimg, .markingtable {
+  margin: 0 auto;
+  width: 760px;
+}
+
+table {
+  border: 1px solid black;
+}
+
